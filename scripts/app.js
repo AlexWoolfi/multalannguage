@@ -27,8 +27,5 @@ function changeLang() {
   document.querySelector('title').innerHTML = langArr['unit'][hash];
   document.querySelector('.lng-unit').innerHTML = langArr['unit'][hash];
 }
-changeLang();
-// changeLang();
-
 
 
