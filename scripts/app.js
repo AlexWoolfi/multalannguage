@@ -28,4 +28,4 @@ function changeLang() {
   document.querySelector('.lng-unit').innerHTML = langArr['unit'][hash];
 }
 
-
+changeLang();
