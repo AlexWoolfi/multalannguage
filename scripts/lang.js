@@ -6,9 +6,9 @@ const langArr = {
        
     },
     'chip': {
-        'ru': "графический ключ",
+        'ru': "графический чип",
         'en': "graphics processing unit",
-        'ua': "графичний ключ"
+        'ua': "графичний чип"
        
     },
     'memory': {
